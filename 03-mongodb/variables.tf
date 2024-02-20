@@ -16,7 +16,7 @@ variable "common_tags" {
 }
 
 variable "zone_name" {
-  default = "joindevops.online"
+  default = "jcglobalit.online"
 }
 
 variable "mongodb_record_name"{
